@@ -1,6 +1,3 @@
-# download spark
-curl -L -s https://apache.osuosl.org/spark/spark-3.1.1/spark-3.1.1-bin-hadoop2.7.tgz | tar xvz -C /workspace/example-airflow-and-spark
-
 # airflow needs a home, ~/airflow is the default,
 # but you can lay foundation somewhere else if you prefer
 # (optional)
